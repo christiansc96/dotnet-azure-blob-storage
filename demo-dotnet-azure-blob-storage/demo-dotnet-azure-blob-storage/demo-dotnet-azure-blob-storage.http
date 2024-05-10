@@ -1,0 +1,6 @@
+@demo_dotnet_azure_blob_storage_HostAddress = http://localhost:5186
+
+GET {{demo_dotnet_azure_blob_storage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
